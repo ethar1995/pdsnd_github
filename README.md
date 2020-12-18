@@ -1,5 +1,5 @@
 # Programming for Data Science with Python Nanodegree
-19 DEC
+19 DEC 2020
 
 # Project 2
 Explore US Bikeshare Data
@@ -11,8 +11,8 @@ In this project, student will make use of Python to explore data related to bike
 
 The required files for running this program are:
 
-1- washington.csv
-2- new_york_city.csv
-3- chicago.csv
+* washington.csv
+* new_york_city.csv
+* chicago.csv
 
 
