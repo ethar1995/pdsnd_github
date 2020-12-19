@@ -187,7 +187,7 @@ def display_data(df):
         else:
             print('Invalid input, please try again')
         while (view_data.lower() == 'yes'):
-            cont_data = input ('Would you like to continue? ').lower()
+            cont_data = input ('Would you like to continue and view other five rows? ').lower()
             if cont_data == 'yes':
                 next += 5
                 print(df.iloc[next:next+5])
