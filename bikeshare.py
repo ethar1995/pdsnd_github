@@ -154,6 +154,7 @@ def user_stats(df, city):
     print('Counts of user types is: ', user_types)
 
     # TO DO: Display counts of gender
+# NOTE that gender and birth year are only in chicago and new yourk city data
     if city == 'chicago.csv' or city == 'new_york_city.csv':
         gender = df['Gender'].value_counts()
         print('Counts of gender is: ', gender) 
